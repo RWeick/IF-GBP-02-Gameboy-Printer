@@ -1,4 +1,4 @@
-# IF-GPB-02-Gameboy-Printer
+# IF-GBP-02-Gameboy-Printer
 The full schematic and gerbers for the Nintendo Gameboy Printer PCB revision 02
 
 PCB Thickness: 1.2 mm
