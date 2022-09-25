@@ -5,5 +5,5 @@ I believe there may still be something missing from this schematic. This current
 
 PCB Thickness: 1.2 mm
 
-![image](https://github.com/Modman/IF-GBP-02-Gameboy-Printer/blob/main/GBP_Front.png)
-![image](https://github.com/Modman/IF-GBP-02-Gameboy-Printer/blob/main/GBP_Back.png)
+![image](https://github.com/Modman/IF-GBP-02-Gameboy-Printer/blob/main/GBPrinter_Front.png)
+![image](https://github.com/Modman/IF-GBP-02-Gameboy-Printer/blob/main/GBPrinter_Back.png)
